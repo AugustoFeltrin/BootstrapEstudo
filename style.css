@@ -1,0 +1,44 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header{
+    background-color: SeaGreen;
+    height: auto;
+}
+header h1{
+    color: white;
+    font-size: 12vh;
+    font-weight: bold;
+}
+
+header nav{
+    background-color: MediumSeaGreen;
+}
+
+main{
+    background-color: PeachPuff	;
+    height:auto; 
+}
+
+.card{
+    background-color: SandyBrown;
+}
+
+aside{
+    background-color: Bisque;
+    height: auto;
+}
+
+aside h3{
+    color: chocolate;
+}
+
+.navbar{
+    background-color: sandybrown;
+}
+
+footer{
+    background-color: SeaGreen;
+    height: auto;
+}
